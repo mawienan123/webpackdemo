@@ -3,6 +3,7 @@
 .DS_Store
 .svn/
 .build
+build
 node_modules
 _dist
 _package
