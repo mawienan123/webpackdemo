@@ -1,3 +1,5 @@
-import './css/index.less';
+import './css/index.less'
 
 $('body').prepend('hi')
+
+console.log(module)
